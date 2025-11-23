@@ -1,0 +1,27 @@
+{
+  "name": "@stylofront",
+  "version": "0.0.1",
+  "description": "Official StyloFront UI theme with Google Fonts, CSS variables, and font provider for Next.js.",
+  "type": "module",
+  "main": "index.js",
+  "style": "index.css",
+  "files": [
+    "index.js",
+    "index.css",
+    "theme.css",
+    "font.js",
+    "fontProvider.js"
+  ],
+  "author": "Hitesh",
+  "license": "MIT",
+  "keywords": [
+    "stylofront",
+    "theme",
+    "css",
+    "design-system",
+    "nextjs",
+    "tailwindcss",
+    "dark-mode",
+    "google-fonts"
+  ]
+}
