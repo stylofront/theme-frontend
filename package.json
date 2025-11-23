@@ -1,6 +1,6 @@
 {
-  "name": "@stylofront",
-  "version": "0.0.1",
+  "name": "@stylofront/theme",
+  "version": "0.0.5",
   "description": "Official StyloFront UI theme with Google Fonts, CSS variables, and font provider for Next.js.",
   "type": "module",
   "main": "index.js",
@@ -8,12 +8,11 @@
   "files": [
     "index.js",
     "index.css",
-    "theme.css",
-    "font.js",
-    "fontProvider.js"
+    "theme.css"
   ],
   "author": "Hitesh",
   "license": "MIT",
+  
   "keywords": [
     "stylofront",
     "theme",
